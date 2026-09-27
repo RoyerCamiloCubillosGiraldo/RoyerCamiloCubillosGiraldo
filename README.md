@@ -44,7 +44,7 @@ Me gusta aprender mediante la práctica y desarrollar proyectos que me permitan 
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
   <img src="https://img.shields.io/badge/API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="APIs"/>
 </p>
-## 📚 Actualmente aprendiendo
+📚 Actualmente aprendiendo
 
 * 🖥️ Desarrollo de software
 * 🌐 Desarrollo de aplicaciones web
